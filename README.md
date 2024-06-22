@@ -8,6 +8,9 @@ EvaExchange is an arbitrarily trading game developed by a startup in a very shor
 - PostgreSQL
 - Sequelize
 
+**Entity Relations:**
+https://drive.google.com/file/d/1gkA5t8DBfaz4uv_MqK2X5cn40PmuST2a/view?usp=sharing
+
 You can start the PostgreSQL database using Docker with the following command:
 ## Running Container
 
